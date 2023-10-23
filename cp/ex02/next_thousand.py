@@ -6,5 +6,4 @@ def next_thousand(a:int):
 
     :param a: the number to be rounded.
     """
-    # TODO: Code has been removed from here.
-    raise NotImplementedError("Insert your solution and remove this error.")
+    print( ((a+999)//1000)*1000 )

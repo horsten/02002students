@@ -9,4 +9,7 @@ def solar_panel(move : bool, swap : bool, hot : bool, empty : bool) -> str:
     :param empty: are there other empty places near the object?
     :return: Whether you should put solar panels on the object as a string.
     """
-    # TODO: Code has been removed from here. 
+    
+    decision_tree = (move, (swap, 'probably not', (hot, 'haha good luck', 'maybe')), (empty, 'probably not', 'sure'))
+    traverse=lambda node: node if isinstance(node, str) else traverse(node[1 if node[0] else 2])
+    return traverse(decision_tree)

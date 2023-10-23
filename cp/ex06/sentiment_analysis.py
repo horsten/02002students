@@ -1,14 +1,19 @@
 """Exercise 6.7: Sentiment analysis."""
 
+score  = {'horrible': -5, 'awful': -5, 'bad': -4, 'terrible': -4, 'mediocre': -2, 'lousy': -3, 'poor': -3,
+'unfair': -1, 'average': 0, 'wonderful': +2, 'beautiful': +3, 'good': +3,'fantastic': +4,
+'excellent': +4, 'superb': +4, 'amazing': +4, 'great': +4, 'best': +5, 'brilliant': +5}
+
 def sentiment_analysis(text: str) -> int:
     """Return the sentence sentiment score, according to the rules of words scoring, as described in the text above.
 
     :param text: The sentence to check for sentiment scoring.
     :return: The total sentiment scoring of the sentence.
     """
-    # TODO: Code has been removed from here. 
+    return sum(word in score and score[word] for word in text.lower().partition('but')[2].split())
+
 
 if __name__ == "__main__":
     # here you can try out your functions
     text='I think the food was excellent and great, but the service was horrible '
-    sentiment_analysis(text)
+    print(text, sentiment_analysis(text))

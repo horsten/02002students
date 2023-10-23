@@ -6,5 +6,6 @@ def normal_weight(height:float):
 
     :param height: the height.
     """
-    # TODO: Code has been removed from here.
-    raise NotImplementedError("Insert your solution and remove this error.")
+    wlo = 18.5 * pow(height,2)
+    whi = 25 * pow(height, 2)
+    print("Normal weight is between %d and %d kg." % (math.ceil(wlo), math.floor(whi)))

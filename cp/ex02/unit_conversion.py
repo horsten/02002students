@@ -7,5 +7,5 @@ def unit_conversion(foot:int, inch:int):
     :param foot: foot portion of the length in imperical unit.
     :param inch: inch portion of the length in imperical unit.
     """
-    # TODO: Code has been removed from here.
-    raise NotImplementedError("Insert your solution and remove this error.")
+    cm = round(2.54*(12*foot+inch))
+    print("%d ft %d in is equal to %d cm." % (foot, inch, cm))

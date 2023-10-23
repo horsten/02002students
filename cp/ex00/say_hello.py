@@ -4,4 +4,4 @@ print("Hello")
 # > Hello
 # > World
 # on two lines.
-# TODO: 1 lines missing. 
+print("World")

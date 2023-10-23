@@ -11,8 +11,7 @@ def last_bug():
         | I have written my last bug |
         ------------------------------
     """
-    # TODO: Code has been removed from here. 
-
+    (lambda: nice_sign('I have written my last bug'))()
 
 def nice_sign(msg : str):
     """Print the input string as a nice sign by enclosing it with pipes.
@@ -27,6 +26,7 @@ def nice_sign(msg : str):
 
     :param msg: The message to enclose.
     """
+    print('\n'.join([x:=f'{(len(msg)+4)*'-'}', f'| {msg} |\n{x}']))
     # You can use len(msg) to get the number of characters and "-"*10 to repeat a character (try in the console!)
     # TODO: Code has been removed from here. 
 

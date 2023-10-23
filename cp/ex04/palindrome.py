@@ -6,7 +6,10 @@ def is_palindrome(word : str) -> bool:
     :param word: The word to check
     :return: ``True`` if input is a palindrome and otherwise ``False``
     """
-    # TODO: Code has been removed from here. 
+    for c in range(len(word)>>1):
+        if word[c] != word[len(word)-c-1]:
+            return False
+    return True
 
 if __name__ == "__main__":
     # here you can try out your functions

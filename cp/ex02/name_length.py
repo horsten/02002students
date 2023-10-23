@@ -4,5 +4,4 @@ def name_length(name:str):
 
     :param name: your name.
     """
-    # TODO: Code has been removed from here.
-    raise NotImplementedError("Insert your solution and remove this error.")
+    print("Your name consists of %d characters." % len(name))

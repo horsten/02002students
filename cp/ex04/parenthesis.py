@@ -7,7 +7,15 @@ def matching(expression :str) -> bool:
     :param expression: An expression containing zero or more parenthesis.
     :return: ``True`` if the number of open/close parenthesis match, otherwise ``False``
     """
-    # TODO: Code has been removed from here. 
+    depth=0
+    for c in expression:
+        if c == '(':
+            depth+=1
+        elif c == ')':
+            depth-=1
+            if depth<0:
+                return False
+    return depth==0
 
 def find_innermost_part(s : str) -> str:
     """Find the innermost part of a mathematical expression.
@@ -19,7 +27,7 @@ def find_innermost_part(s : str) -> str:
     :param s: The mathematical expression as a ``str``
     :return: The innermost part as a ``str``
     """
-    # TODO: Code has been removed from here. 
+    return s.rpartition('(')[2].partition(')')[0]
 
 
 def find_index_of_equality(expression : str) -> int:

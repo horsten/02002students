@@ -8,4 +8,4 @@ def heart_attack(age:int, weight:int, smoker:bool) -> str:
     :param smoker: Does the person smoke cigarettes?
     :return: A string, either "low" or "high", indicating the risk for having heart attack.
     """
-    # TODO: Code has been removed from here. 
+    return 'high' if (age<18 and weight>=60) or (age>30 and smoker) else 'low'

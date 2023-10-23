@@ -7,8 +7,7 @@ def is_word_guessed(secret_word : str, letters_guessed : str) -> bool:
     :param letters_guessed: A ``str`` containing the letters that have currently been guessed
     :return: True if and only if all letters in ``secret_word`` have been guessed.
     """
-    # TODO: Code has been removed from here. 
-
+    return 0 == sum((letters_guessed.find(c) == -1) for c in secret_word)
 
 def get_available_letters(letters_guessed : str) -> str:
     """
@@ -21,7 +20,15 @@ def get_available_letters(letters_guessed : str) -> str:
     :param letters_guessed: A `str` representing the letters the user has already guessed
     :return: A `str` containing the letters the user has not guessed at yet.
     """
-    # TODO: Code has been removed from here. 
+    #r = ''
+    #for c in iter('abcdefghijklmnopqrstuvwxyz'):
+    #    if letters_guessed.find(c) == -1:
+    #        r += c
+    #return r
+    letters = 'abcdefghijklmnopqrstuvwxyz'
+    for c in iter(letters_guessed):
+        letters = letters.replace(c, '')
+    return letters
 
 def get_guessed_word(secret_word : str, letters_guessed : str) -> str:
     """Format the secret word for the user by removing letters that have not been guessed yet.
@@ -34,7 +41,13 @@ def get_guessed_word(secret_word : str, letters_guessed : str) -> str:
     :param letters_guessed:  A ``str`` containing which letters have been guessed so far
     :return: A ``str``, comprised of letters, underscores (_), and spaces that represents which letters in secret_word have been guessed so far.
     """
-    # TODO: Code has been removed from here. 
+    n = []
+    for c in secret_word:
+        if letters_guessed.find(c) != -1:
+            n.append(c)
+        else:
+            n.append('_ ')
+    return ''.join(n)
 
 def hangman(secret_word : str, guesses : int):
     """
@@ -53,18 +66,45 @@ def hangman(secret_word : str, guesses : int):
     :param secret_word: The secret word to guess, for instance ``"cow"``
     :param guesses: The number of available guesses, for instance ``6``
     """
-    # TODO: Code has been removed from here. 
+    print(f'Hangman! To save Bob, you must guess a 3 letter word within {guesses} attempts.')
+    letters_guessed = ''
+    guesses1 = guesses
+    while guesses > 0 and not is_word_guessed(secret_word,letters_guessed):
+        print(f"----\nYou have {guesses} guesses left.")
+        print(f"The available letters are: {get_available_letters(letters_guessed)}. Guess a letter and press enter: ",end="")
+        i = input('')
 
+        if len(i) != 1 or i < 'a' or i > 'z':
+            break
+            #print("Invalid input dumbo, try again!")
+            #continue
 
+        letters_guessed += i
+
+        if is_word_guessed(secret_word,letters_guessed):
+            print(f"Success! You guessed '{secret_word}' in {guesses1-guesses} tries.")
+            print(f"Your score is {len(secret_word)*(guesses+1)}")
+            return
+
+        if secret_word.find(i)!=-1:
+            msg = "Good guess"
+        else:
+            msg = "Oh no"
+
+        print(f'{msg}: {get_guessed_word(secret_word, letters_guessed)}')
+
+        guesses -= 1
+
+    print(f"Game over :-(. Your score is 0 points.")
 
 if __name__ == "__main__":
     # here you can try out your functions
-    print("This should return True: ", is_word_guessed("dog", "tdohg"))
-    print("This should return False: ", is_word_guessed("dog", "dthk"))
+    #print("This should return True: ", is_word_guessed("dog", "tdohg"))
+    #print("This should return False: ", is_word_guessed("dog", "dthk"))
 
-    print("This should be 'c_ w': ", get_guessed_word('cow', 'kcwt'))
+    #print("This should be 'c_ w': ", get_guessed_word('cow', 'kcwt'))
 
-    print("Available letters when we have tried 'abcdefghijk'; this should be about half the alphabet: ", get_available_letters('abcdefghijk'))
+    #print("Available letters when we have tried 'abcdefghijk'; this should be about half the alphabet: ", get_available_letters('abcdefghijk'))
 
-    print("Lets launch hangman. Try the inputs in the exercise description and see if you get the same")
+    #print("Lets launch hangman. Try the inputs in the exercise description and see if you get the same")
     hangman("cow", 4)

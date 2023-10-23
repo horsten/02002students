@@ -6,4 +6,7 @@ def full_name(first_name:str, last_name:str):
     :param last_name: your last name.
     """
     # TODO: Code has been removed from here.
-    raise NotImplementedError("Insert your solution and remove this error.")
+    print(first_name + " " + last_name)
+
+if __name__ == "__main__":
+    full_name("Thomas", "Horsten")

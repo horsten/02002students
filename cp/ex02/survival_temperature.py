@@ -5,5 +5,5 @@ def survival_temperature(metabolic_heat:int, thermal_conductance:float):
     :param metabolic_heat: the metabolic heat production.
     :param thermal_conductance: the thermal conductance.
     """
-    # TODO: Code has been removed from here.
-    raise NotImplementedError("Insert your solution and remove this error.")
+    t = 36 - (0.9 * metabolic_heat - 12) * (thermal_conductance+0.95)/(27.8*thermal_conductance)
+    print("Survival temperature is %.1f degrees." % t )
