@@ -7,4 +7,4 @@ def box_packing(object : tuple, box : tuple)-> tuple:
     :param box: Tuple (H, W) the dimensions of the box.
     :return: Tuple
     """
-    # TODO: Code has been removed from here. 
+    return tuple([0 if o<=b else o-b for (o,b) in zip(object,box)])

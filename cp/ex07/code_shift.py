@@ -7,5 +7,4 @@ def code_shift(code : tuple, turn : tuple) -> tuple:
     :param turn: Tuple with the turn on each lock dial
     :return: Updated lock code.
     """
-    # TODO: Code has been removed from here. 
-    
+    return tuple( (a+b) % 10 for a,b in zip(code,turn) )

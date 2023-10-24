@@ -8,4 +8,4 @@ def returning_multiple_values(values: list, threshold: int) -> tuple:
     :param threshold: An integer.
     :return: A tuple containing the a list of elements that are greater than the threshold and the minimum of values
     """
-    # TODO: Code has been removed from here. 
+    return (list(filter(lambda x:x>threshold,values)), min(values))
