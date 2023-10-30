@@ -1,0 +1,3061 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+    <Document>
+        <Style id="10mStyle">
+            <IconStyle id="greenIcon">
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png </href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="15mStyle">
+            <IconStyle id="blueIcon">
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="80mStyle">
+            <IconStyle id="RedIcon">
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="160mStyle">
+            <IconStyle id="RedIcon">
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/pink-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="40mStyle">
+            <IconStyle id="yellowIcon">
+                <Icon>
+                    <href> http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="20mStyle">
+            <IconStyle id="ltblueIcon">
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="placemark1">
+            <name>2E0ACE</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/2E0ACE'&gt;2E0ACE&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: England
+</description>
+            <Point>
+                <coordinates>-2.728797,54.941068</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark2">
+            <name>2E0LCX</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/2E0LCX'&gt;2E0LCX&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: England
+</description>
+            <Point>
+                <coordinates>-0.288183,52.669806</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark3">
+            <name>3V8CB</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/3V8CB'&gt;3V8CB&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Tunisia
+</description>
+            <Point>
+                <coordinates>10.373333,36.728333</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark4">
+            <name>4L8A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/4L8A'&gt;4L8A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                10&lt;br&gt;Country: Georgia
+</description>
+            <Point>
+                <coordinates>44.802246,41.672912</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark5">
+            <name>4U1A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/4U1A'&gt;4U1A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Austria
+</description>
+            <Point>
+                <coordinates>16.415072,48.235708</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark6">
+            <name>4U1UN</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/4U1UN'&gt;4U1UN&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: United Nations
+</description>
+            <Point>
+                <coordinates>-74.041667,40.770833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark7">
+            <name>4X1DX</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/4X1DX'&gt;4X1DX&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Israel
+</description>
+            <Point>
+                <coordinates>34.791667,31.145833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark8">
+            <name>4X1MM</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/4X1MM'&gt;4X1MM&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                10&lt;br&gt;Country: Israel
+</description>
+            <Point>
+                <coordinates>34.791667,31.145833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark9">
+            <name>4X1ST</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/4X1ST'&gt;4X1ST&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Israel
+</description>
+            <Point>
+                <coordinates>34.888587,32.154142</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark10">
+            <name>5P4PD</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/5P4PD'&gt;5P4PD&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: Denmark
+</description>
+            <Point>
+                <coordinates>9.623333,55.353333</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark11">
+            <name>8P5A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/8P5A'&gt;8P5A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                10&lt;br&gt;Country: Barbados
+</description>
+            <Point>
+                <coordinates>-59.626667,13.228333</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark12">
+            <name>9A1A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/9A1A'&gt;9A1A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Croatia
+</description>
+            <Point>
+                <coordinates>16.005954,45.601856</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark13">
+            <name>9A1DR</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/9A1DR'&gt;9A1DR&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Croatia
+</description>
+            <Point>
+                <coordinates>16.053125,45.843576</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark14">
+            <name>9A3AG</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/9A3AG'&gt;9A3AG&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Croatia
+</description>
+            <Point>
+                <coordinates>16.650574,46.227561</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark15">
+            <name>9A5Y</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/9A5Y'&gt;9A5Y&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                40&lt;br&gt;Country: Croatia
+</description>
+            <Point>
+                <coordinates>17.208333,45.604167</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark16">
+            <name>9A7A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/9A7A'&gt;9A7A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                40&lt;br&gt;Country: Croatia
+</description>
+            <Point>
+                <coordinates>16.315948,46.337216</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark17">
+            <name>9A8M</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/9A8M'&gt;9A8M&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: Croatia
+</description>
+            <Point>
+                <coordinates>18.208333,45.770833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark18">
+            <name>9H6A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/9H6A'&gt;9H6A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Malta
+</description>
+            <Point>
+                <coordinates>14.544070,35.885820</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark19">
+            <name>9K2HN</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/9K2HN'&gt;9K2HN&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                10&lt;br&gt;Country: Kuwait
+</description>
+            <Point>
+                <coordinates>47.790000,30.020000</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark20">
+            <name>9K9C</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/9K9C'&gt;9K9C&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Kuwait
+</description>
+            <Point>
+                <coordinates>48.041667,29.312500</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark21">
+            <name>A44A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/A44A'&gt;A44A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Oman
+</description>
+            <Point>
+                <coordinates>58.349054,23.601804</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark22">
+            <name>A61BR</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/A61BR'&gt;A61BR&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: United Arab Emirates
+</description>
+            <Point>
+                <coordinates>56.324716,25.132464</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark23">
+            <name>A73A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/A73A'&gt;A73A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Qatar
+</description>
+            <Point>
+                <coordinates>51.414814,25.377997</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark24">
+            <name>AE7DX</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/AE7DX'&gt;AE7DX&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                15&lt;br&gt;Country: United States
+</description>
+            <Point>
+                <coordinates>-112.40891,42.813007</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark25">
+            <name>C37N</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/C37N'&gt;C37N&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Andorra
+</description>
+            <Point>
+                <coordinates>1.541667,42.520833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark26">
+            <name>C4W</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/C4W'&gt;C4W&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                10&lt;br&gt;Country: Cyprus
+</description>
+            <Point>
+                <coordinates>33.178711,34.994004</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark27">
+            <name>CN3A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/CN3A'&gt;CN3A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Morocco
+</description>
+            <Point>
+                <coordinates>-7.958333,31.645833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark28">
+            <name>CQ3J</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/CQ3J'&gt;CQ3J&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                15&lt;br&gt;Country: Madeira Island
+</description>
+            <Point>
+                <coordinates>-16.375000,33.062500</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark29">
+            <name>CR2B</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/CR2B'&gt;CR2B&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                15&lt;br&gt;Country: Azores
+</description>
+            <Point>
+                <coordinates>-28.063807,39.065435</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark30">
+            <name>CR3DX</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/CR3DX'&gt;CR3DX&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                15&lt;br&gt;Country: Madeira Island
+</description>
+            <Point>
+                <coordinates>-17.187699,32.860936</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark31">
+            <name>CR5T</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/CR5T'&gt;CR5T&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Portugal
+</description>
+            <Point>
+                <coordinates>-8.445493,40.200192</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark32">
+            <name>CR6P</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/CR6P'&gt;CR6P&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: Portugal
+</description>
+            <Point>
+                <coordinates>-8.700829,41.971424</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark33">
+            <name>CS7BCB</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/CS7BCB'&gt;CS7BCB&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Portugal
+</description>
+            <Point>
+                <coordinates>-7.569930,41.620920</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark34">
+            <name>CT1EO</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/CT1EO'&gt;CT1EO&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                10&lt;br&gt;Country: Portugal
+</description>
+            <Point>
+                <coordinates>-8.125000,39.604167</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark35">
+            <name>CT2JBD</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/CT2JBD'&gt;CT2JBD&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                10&lt;br&gt;Country: Portugal
+</description>
+            <Point>
+                <coordinates>-9.311346,38.738893</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark36">
+            <name>CT3KN</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/CT3KN'&gt;CT3KN&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                15&lt;br&gt;Country: Madeira Island
+</description>
+            <Point>
+                <coordinates>-16.923086,32.817575</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark37">
+            <name>D4C</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/D4C'&gt;D4C&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Cape Verde
+</description>
+            <Point>
+                <coordinates>-24.960000,16.895000</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark38">
+            <name>DA0BCC</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/DA0BCC'&gt;DA0BCC&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: Germany
+</description>
+            <Point>
+                <coordinates>12.125796,47.836763</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark39">
+            <name>DF0HQ</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/DF0HQ'&gt;DF0HQ&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                40&lt;br&gt;Country: Germany
+</description>
+            <Point>
+                <coordinates>10.920900,50.700900</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark40">
+            <name>DG1RS</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/DG1RS'&gt;DG1RS&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Germany
+</description>
+            <Point>
+                <coordinates>8.819784,49.326157</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark41">
+            <name>DK1KW</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/DK1KW'&gt;DK1KW&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Germany
+</description>
+            <Point>
+                <coordinates>11.466969,48.167288</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark42">
+            <name>DL2CC</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/DL2CC'&gt;DL2CC&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Germany
+</description>
+            <Point>
+                <coordinates>9.873333,48.520000</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark43">
+            <name>DL5RMH</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/DL5RMH'&gt;DL5RMH&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Germany
+</description>
+            <Point>
+                <coordinates>12.125000,48.562500</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark44">
+            <name>DM0A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/DM0A'&gt;DM0A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Germany
+</description>
+            <Point>
+                <coordinates>8.708333,50.104167</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark45">
+            <name>DP6A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/DP6A'&gt;DP6A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: Germany
+</description>
+            <Point>
+                <coordinates>7.884727,53.658921</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark46">
+            <name>DP6T</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/DP6T'&gt;DP6T&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: Germany
+</description>
+            <Point>
+                <coordinates>9.267019,50.288224</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark47">
+            <name>DP7D</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/DP7D'&gt;DP7D&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: Germany
+</description>
+            <Point>
+                <coordinates>7.290000,52.103333</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark48">
+            <name>DP9A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/DP9A'&gt;DP9A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                40&lt;br&gt;Country: Germany
+</description>
+            <Point>
+                <coordinates>12.944550,51.790602</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark49">
+            <name>DR4A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/DR4A'&gt;DR4A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Germany
+</description>
+            <Point>
+                <coordinates>7.790000,49.895000</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark50">
+            <name>E2K</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/E2K'&gt;E2K&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                10&lt;br&gt;Country: Thailand
+</description>
+            <Point>
+                <coordinates>100.928532,12.939609</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark51">
+            <name>EA1BLI</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/EA1BLI'&gt;EA1BLI&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Spain
+</description>
+            <Point>
+                <coordinates>-4.541667,42.020833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark52">
+            <name>EA1FBU</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/EA1FBU'&gt;EA1FBU&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                15&lt;br&gt;Country: Spain
+</description>
+            <Point>
+                <coordinates>-8.594570,42.291532</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark53">
+            <name>EA1URS</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/EA1URS'&gt;EA1URS&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Spain
+</description>
+            <Point>
+                <coordinates>-3.793333,43.478333</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark54">
+            <name>EA2W</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/EA2W'&gt;EA2W&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Spain
+</description>
+            <Point>
+                <coordinates>-2.043333,43.311667</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark55">
+            <name>EA3CI</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/EA3CI'&gt;EA3CI&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Spain
+</description>
+            <Point>
+                <coordinates>3.125000,41.854167</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark56">
+            <name>EA5DF</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/EA5DF'&gt;EA5DF&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Spain
+</description>
+            <Point>
+                <coordinates>-0.518160,39.507716</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark57">
+            <name>EA5KL</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/EA5KL'&gt;EA5KL&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                40&lt;br&gt;Country: Spain
+</description>
+            <Point>
+                <coordinates>-0.498688,38.346720</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark58">
+            <name>EA5R</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/EA5R'&gt;EA5R&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Spain
+</description>
+            <Point>
+                <coordinates>-1.313289,37.603129</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark59">
+            <name>EA7DHT</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/EA7DHT'&gt;EA7DHT&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Spain
+</description>
+            <Point>
+                <coordinates>-3.626667,37.186667</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark60">
+            <name>EA8AM</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/EA8AM'&gt;EA8AM&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                15&lt;br&gt;Country: Canary Islands
+</description>
+            <Point>
+                <coordinates>-16.434800,28.449300</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark61">
+            <name>EA8CYU</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/EA8CYU'&gt;EA8CYU&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Canary Islands
+</description>
+            <Point>
+                <coordinates>-16.240352,28.491210</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark62">
+            <name>EA8RM</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/EA8RM'&gt;EA8RM&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                15&lt;br&gt;Country: Canary Islands
+</description>
+            <Point>
+                <coordinates>-15.480972,28.124743</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark63">
+            <name>EB1DJ</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/EB1DJ'&gt;EB1DJ&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                10&lt;br&gt;Country: Spain
+</description>
+            <Point>
+                <coordinates>-8.943040,42.597211</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark64">
+            <name>EC3CVD</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/EC3CVD'&gt;EC3CVD&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Spain
+</description>
+            <Point>
+                <coordinates>2.233446,41.572951</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark65">
+            <name>EC5W</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/EC5W'&gt;EC5W&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                10&lt;br&gt;Country: Spain
+</description>
+            <Point>
+                <coordinates>-0.626667,38.270000</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark66">
+            <name>ED1R</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/ED1R'&gt;ED1R&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Spain
+</description>
+            <Point>
+                <coordinates>-4.793333,40.853333</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark67">
+            <name>ED3D</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/ED3D'&gt;ED3D&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Spain
+</description>
+            <Point>
+                <coordinates>3.123333,41.853333</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark68">
+            <name>ED4J</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/ED4J'&gt;ED4J&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Spain
+</description>
+            <Point>
+                <coordinates>-3.708333,40.395833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark69">
+            <name>ED5D</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/ED5D'&gt;ED5D&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Spain
+</description>
+            <Point>
+                <coordinates>0.101360,38.837244</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark70">
+            <name>ED7W</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/ED7W'&gt;ED7W&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                10&lt;br&gt;Country: Spain
+</description>
+            <Point>
+                <coordinates>-3.708333,40.395833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark71">
+            <name>EE3O</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/EE3O'&gt;EE3O&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                40&lt;br&gt;Country: Spain
+</description>
+            <Point>
+                <coordinates>-3.708333,40.395833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark72">
+            <name>EE5R</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/EE5R'&gt;EE5R&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Spain
+</description>
+            <Point>
+                <coordinates>-3.708333,40.395833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark73">
+            <name>EE7K</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/EE7K'&gt;EE7K&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                10&lt;br&gt;Country: Spain
+</description>
+            <Point>
+                <coordinates>-5.960000,37.020000</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark74">
+            <name>EE7L</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/EE7L'&gt;EE7L&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: Spain
+</description>
+            <Point>
+                <coordinates>-3.708333,40.395833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark75">
+            <name>EE7P</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/EE7P'&gt;EE7P&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                10&lt;br&gt;Country: Spain
+</description>
+            <Point>
+                <coordinates>-3.708333,40.395833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark76">
+            <name>EF3W</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/EF3W'&gt;EF3W&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                15&lt;br&gt;Country: Spain
+</description>
+            <Point>
+                <coordinates>-3.708333,40.395833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark77">
+            <name>EF8K</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/EF8K'&gt;EF8K&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Canary Islands
+</description>
+            <Point>
+                <coordinates>-16.320019,28.432317</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark78">
+            <name>EI7M</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/EI7M'&gt;EI7M&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Ireland
+</description>
+            <Point>
+                <coordinates>-8.270000,51.900000</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark79">
+            <name>ES1TAR</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/ES1TAR'&gt;ES1TAR&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Estonia
+</description>
+            <Point>
+                <coordinates>24.873333,59.478333</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark80">
+            <name>ES3V</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/ES3V'&gt;ES3V&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: Estonia
+</description>
+            <Point>
+                <coordinates>25.625000,59.020833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark81">
+            <name>EW5A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/EW5A'&gt;EW5A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Belarus
+</description>
+            <Point>
+                <coordinates>27.320241,55.130986</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark82">
+            <name>EX9A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/EX9A'&gt;EX9A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                10&lt;br&gt;Country: Kyrgyzstan
+</description>
+            <Point>
+                <coordinates>74.208333,41.645833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark83">
+            <name>F1DHX</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/F1DHX'&gt;F1DHX&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                40&lt;br&gt;Country: France
+</description>
+            <Point>
+                <coordinates>-0.960000,44.645000</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark84">
+            <name>F4DVX</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/F4DVX'&gt;F4DVX&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: France
+</description>
+            <Point>
+                <coordinates>-0.043333,44.728333</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark85">
+            <name>F6DRP</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/F6DRP'&gt;F6DRP&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: France
+</description>
+            <Point>
+                <coordinates>2.375000,48.854167</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark86">
+            <name>FY5KE</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/FY5KE'&gt;FY5KE&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                10&lt;br&gt;Country: French Guiana
+</description>
+            <Point>
+                <coordinates>-52.625000,5.145833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark87">
+            <name>GW9J</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/GW9J'&gt;GW9J&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: Wales
+</description>
+            <Point>
+                <coordinates>-4.126667,52.103333</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark88">
+            <name>HA1AH</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/HA1AH'&gt;HA1AH&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Hungary
+</description>
+            <Point>
+                <coordinates>18.956667,47.436667</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark89">
+            <name>HA1TJ</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/HA1TJ'&gt;HA1TJ&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: Hungary
+</description>
+            <Point>
+                <coordinates>17.623333,47.686667</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark90">
+            <name>HA8A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/HA8A'&gt;HA8A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Hungary
+</description>
+            <Point>
+                <coordinates>20.206667,46.228333</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark91">
+            <name>HB9FR</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/HB9FR'&gt;HB9FR&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Switzerland
+</description>
+            <Point>
+                <coordinates>6.915733,46.849433</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark92">
+            <name>HB9H</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/HB9H'&gt;HB9H&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: Switzerland
+</description>
+            <Point>
+                <coordinates>8.864630,46.104408</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark93">
+            <name>HG7T</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/HG7T'&gt;HG7T&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Hungary
+</description>
+            <Point>
+                <coordinates>21.828366,47.554427</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark94">
+            <name>HG7Y</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/HG7Y'&gt;HG7Y&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Hungary
+</description>
+            <Point>
+                <coordinates>19.041667,47.520833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark95">
+            <name>HG8R</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/HG8R'&gt;HG8R&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Hungary
+</description>
+            <Point>
+                <coordinates>21.123333,46.686667</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark96">
+            <name>HZ0YL</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/HZ0YL'&gt;HZ0YL&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                10&lt;br&gt;Country: Saudi Arabia
+</description>
+            <Point>
+                <coordinates>39.206667,21.520000</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark97">
+            <name>HZ1BW</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/HZ1BW'&gt;HZ1BW&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Saudi Arabia
+</description>
+            <Point>
+                <coordinates>46.267346,24.468222</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark98">
+            <name>IB3M</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/IB3M'&gt;IB3M&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: Italy
+</description>
+            <Point>
+                <coordinates>12.875000,42.770833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark99">
+            <name>IB9A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/IB9A'&gt;IB9A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                10&lt;br&gt;Country: Italy
+</description>
+            <Point>
+                <coordinates>13.373333,38.020000</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark100">
+            <name>IB9T</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/IB9T'&gt;IB9T&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Italy
+</description>
+            <Point>
+                <coordinates>13.351015,38.178219</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark101">
+            <name>IG9ITO</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/IG9ITO'&gt;IG9ITO&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                10&lt;br&gt;Country: Italy
+</description>
+            <Point>
+                <coordinates>12.611469,35.502347</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark102">
+            <name>IH9A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/IH9A'&gt;IH9A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Italy
+</description>
+            <Point>
+                <coordinates>11.956667,36.853333</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark103">
+            <name>II8K</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/II8K'&gt;II8K&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Italy
+</description>
+            <Point>
+                <coordinates>16.290000,39.353333</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark104">
+            <name>II9P</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/II9P'&gt;II9P&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Italy
+</description>
+            <Point>
+                <coordinates>14.700659,36.989098</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark105">
+            <name>IK4LZH</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/IK4LZH'&gt;IK4LZH&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                15&lt;br&gt;Country: Italy
+</description>
+            <Point>
+                <coordinates>11.338813,44.527615</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark106">
+            <name>IK5EKB</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/IK5EKB'&gt;IK5EKB&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                15&lt;br&gt;Country: Italy
+</description>
+            <Point>
+                <coordinates>11.130665,44.028198</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark107">
+            <name>IO6A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/IO6A'&gt;IO6A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Italy
+</description>
+            <Point>
+                <coordinates>12.875000,42.770833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark108">
+            <name>IO7T</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/IO7T'&gt;IO7T&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Italy
+</description>
+            <Point>
+                <coordinates>16.989498,41.061621</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark109">
+            <name>IO8V</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/IO8V'&gt;IO8V&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Italy
+</description>
+            <Point>
+                <coordinates>12.875000,42.770833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark110">
+            <name>IO9A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/IO9A'&gt;IO9A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Italy
+</description>
+            <Point>
+                <coordinates>15.206667,38.228333</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark111">
+            <name>IO9R</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/IO9R'&gt;IO9R&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                10&lt;br&gt;Country: Italy
+</description>
+            <Point>
+                <coordinates>15.123333,37.603333</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark112">
+            <name>IQ4FA</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/IQ4FA'&gt;IQ4FA&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                40&lt;br&gt;Country: Italy
+</description>
+            <Point>
+                <coordinates>11.633311,44.825902</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark113">
+            <name>IQ5PJ</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/IQ5PJ'&gt;IQ5PJ&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Italy
+</description>
+            <Point>
+                <coordinates>10.394877,43.639037</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark114">
+            <name>IQ8SN</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/IQ8SN'&gt;IQ8SN&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                10&lt;br&gt;Country: Italy
+</description>
+            <Point>
+                <coordinates>16.540000,38.686667</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark115">
+            <name>IR0A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/IR0A'&gt;IR0A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: Sardinia
+</description>
+            <Point>
+                <coordinates>8.532377,40.799958</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark116">
+            <name>IR1G</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/IR1G'&gt;IR1G&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                40&lt;br&gt;Country: Italy
+</description>
+            <Point>
+                <coordinates>8.035061,44.979659</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark117">
+            <name>IR3P</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/IR3P'&gt;IR3P&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Italy
+</description>
+            <Point>
+                <coordinates>12.658127,45.964740</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark118">
+            <name>IR4X</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/IR4X'&gt;IR4X&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                40&lt;br&gt;Country: Italy
+</description>
+            <Point>
+                <coordinates>11.208333,44.479167</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark119">
+            <name>IR6T</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/IR6T'&gt;IR6T&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                15&lt;br&gt;Country: Italy
+</description>
+            <Point>
+                <coordinates>12.875000,42.770833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark120">
+            <name>IR9K</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/IR9K'&gt;IR9K&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Italy
+</description>
+            <Point>
+                <coordinates>15.208333,37.312500</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark121">
+            <name>IR9W</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/IR9W'&gt;IR9W&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                10&lt;br&gt;Country: Italy
+</description>
+            <Point>
+                <coordinates>14.996836,36.709619</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark122">
+            <name>IS0BGL</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/IS0BGL'&gt;IS0BGL&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Sardinia
+</description>
+            <Point>
+                <coordinates>8.987114,39.303008</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark123">
+            <name>IT9FRX</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/IT9FRX'&gt;IT9FRX&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Italy
+</description>
+            <Point>
+                <coordinates>13.325650,38.118080</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark124">
+            <name>IT9STX</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/IT9STX'&gt;IT9STX&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                15&lt;br&gt;Country: Italy
+</description>
+            <Point>
+                <coordinates>13.206667,38.061667</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark125">
+            <name>IT9XTP</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/IT9XTP'&gt;IT9XTP&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                10&lt;br&gt;Country: Italy
+</description>
+            <Point>
+                <coordinates>13.290000,38.103333</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark126">
+            <name>IU8LMC</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/IU8LMC'&gt;IU8LMC&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Italy
+</description>
+            <Point>
+                <coordinates>14.290000,41.061667</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark127">
+            <name>J42L</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/J42L'&gt;J42L&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Greece
+</description>
+            <Point>
+                <coordinates>21.277640,40.468082</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark128">
+            <name>K1LZ</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/K1LZ'&gt;K1LZ&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: United States
+</description>
+            <Point>
+                <coordinates>-71.339590,42.287416</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark129">
+            <name>K3LR</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/K3LR'&gt;K3LR&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: United States
+</description>
+            <Point>
+                <coordinates>-80.495600,41.178933</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark130">
+            <name>KC1XX</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/KC1XX'&gt;KC1XX&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: United States
+</description>
+            <Point>
+                <coordinates>-71.726217,42.725829</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark131">
+            <name>LS2D</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/LS2D'&gt;LS2D&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                15&lt;br&gt;Country: Argentina
+</description>
+            <Point>
+                <coordinates>-60.891337,-35.483528</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark132">
+            <name>LT1F</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/LT1F'&gt;LT1F&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                15&lt;br&gt;Country: Argentina
+</description>
+            <Point>
+                <coordinates>-60.717509,-33.128055</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark133">
+            <name>LX1NO</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/LX1NO'&gt;LX1NO&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                160&lt;br&gt;Country: Luxembourg
+</description>
+            <Point>
+                <coordinates>6.106854,49.815212</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark134">
+            <name>LY4L</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/LY4L'&gt;LY4L&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Lithuania
+</description>
+            <Point>
+                <coordinates>23.956667,54.853333</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark135">
+            <name>LZ1ND</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/LZ1ND'&gt;LZ1ND&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Bulgaria
+</description>
+            <Point>
+                <coordinates>24.708333,42.145833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark136">
+            <name>LZ4DJ</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/LZ4DJ'&gt;LZ4DJ&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Bulgaria
+</description>
+            <Point>
+                <coordinates>27.440509,43.316874</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark137">
+            <name>LZ5K</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/LZ5K'&gt;LZ5K&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                15&lt;br&gt;Country: Bulgaria
+</description>
+            <Point>
+                <coordinates>25.322714,42.619497</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark138">
+            <name>LZ8A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/LZ8A'&gt;LZ8A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Bulgaria
+</description>
+            <Point>
+                <coordinates>24.706667,42.895000</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark139">
+            <name>LZ8E</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/LZ8E'&gt;LZ8E&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                40&lt;br&gt;Country: Bulgaria
+</description>
+            <Point>
+                <coordinates>26.604729,43.499446</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark140">
+            <name>LZ9W</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/LZ9W'&gt;LZ9W&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Bulgaria
+</description>
+            <Point>
+                <coordinates>22.906494,42.735555</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark141">
+            <name>M4A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/M4A'&gt;M4A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: England
+</description>
+            <Point>
+                <coordinates>0.041667,52.229167</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark142">
+            <name>M6C</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/M6C'&gt;M6C&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: England
+</description>
+            <Point>
+                <coordinates>-0.208333,51.479167</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark143">
+            <name>M6T</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/M6T'&gt;M6T&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: England
+</description>
+            <Point>
+                <coordinates>1.458333,52.229167</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark144">
+            <name>MD4K</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/MD4K'&gt;MD4K&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: Isle of Man
+</description>
+            <Point>
+                <coordinates>-4.625000,54.145833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark145">
+            <name>MI5K</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/MI5K'&gt;MI5K&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: Northern Ireland
+</description>
+            <Point>
+                <coordinates>-5.958333,54.604167</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark146">
+            <name>MM0TBH</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/MM0TBH'&gt;MM0TBH&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Scotland
+</description>
+            <Point>
+                <coordinates>-4.190178,55.845747</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark147">
+            <name>N2MM</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/N2MM'&gt;N2MM&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: United States
+</description>
+            <Point>
+                <coordinates>-74.705178,39.807541</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark148">
+            <name>N2NT</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/N2NT'&gt;N2NT&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                15&lt;br&gt;Country: United States
+</description>
+            <Point>
+                <coordinates>-74.442184,40.334563</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark149">
+            <name>N2SR</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/N2SR'&gt;N2SR&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: United States
+</description>
+            <Point>
+                <coordinates>-74.772212,39.829847</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark150">
+            <name>N5DX</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/N5DX'&gt;N5DX&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: United States
+</description>
+            <Point>
+                <coordinates>-93.115091,36.226960</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark151">
+            <name>NN1SS</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/NN1SS'&gt;NN1SS&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: United States
+</description>
+            <Point>
+                <coordinates>-71.397224,42.874918</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark152">
+            <name>NP2X</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/NP2X'&gt;NP2X&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: US Virgin Islands
+</description>
+            <Point>
+                <coordinates>-64.622944,17.787663</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark153">
+            <name>NP4VM</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/NP4VM'&gt;NP4VM&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                15&lt;br&gt;Country: Puerto Rico
+</description>
+            <Point>
+                <coordinates>-66.031300,18.369280</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark154">
+            <name>NR3X</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/NR3X'&gt;NR3X&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: United States
+</description>
+            <Point>
+                <coordinates>-78.468777,36.043524</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark155">
+            <name>OE2XAL</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/OE2XAL'&gt;OE2XAL&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: Austria
+</description>
+            <Point>
+                <coordinates>12.990325,47.809332</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark156">
+            <name>OE5WZO</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/OE5WZO'&gt;OE5WZO&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Austria
+</description>
+            <Point>
+                <coordinates>14.109342,48.288867</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark157">
+            <name>OK1LRD</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/OK1LRD'&gt;OK1LRD&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: Czech Republic
+</description>
+            <Point>
+                <coordinates>12.706667,49.853333</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark158">
+            <name>OK3MAT</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/OK3MAT'&gt;OK3MAT&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Czech Republic
+</description>
+            <Point>
+                <coordinates>15.790000,49.936667</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark159">
+            <name>OK5Z</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/OK5Z'&gt;OK5Z&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Czech Republic
+</description>
+            <Point>
+                <coordinates>16.040000,49.436667</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark160">
+            <name>OK7O</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/OK7O'&gt;OK7O&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: Czech Republic
+</description>
+            <Point>
+                <coordinates>14.541667,50.312500</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark161">
+            <name>OL1T</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/OL1T'&gt;OL1T&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Czech Republic
+</description>
+            <Point>
+                <coordinates>14.541667,50.312500</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark162">
+            <name>OL7K</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/OL7K'&gt;OL7K&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Czech Republic
+</description>
+            <Point>
+                <coordinates>14.541667,50.312500</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark163">
+            <name>OM0R</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/OM0R'&gt;OM0R&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Slovak Republic
+</description>
+            <Point>
+                <coordinates>20.291667,49.062500</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark164">
+            <name>OM2VL</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/OM2VL'&gt;OM2VL&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: Slovak Republic
+</description>
+            <Point>
+                <coordinates>17.625000,47.979167</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark165">
+            <name>OM3CPF</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/OM3CPF'&gt;OM3CPF&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Slovak Republic
+</description>
+            <Point>
+                <coordinates>18.040000,48.311667</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark166">
+            <name>OM5R</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/OM5R'&gt;OM5R&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Slovak Republic
+</description>
+            <Point>
+                <coordinates>18.623333,48.228333</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark167">
+            <name>OQ4Q</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/OQ4Q'&gt;OQ4Q&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: Belgium
+</description>
+            <Point>
+                <coordinates>3.790000,51.103333</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark168">
+            <name>OR1X</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/OR1X'&gt;OR1X&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Belgium
+</description>
+            <Point>
+                <coordinates>4.958333,50.937500</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark169">
+            <name>OR3A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/OR3A'&gt;OR3A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: Belgium
+</description>
+            <Point>
+                <coordinates>4.958333,50.937500</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark170">
+            <name>OT7T</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/OT7T'&gt;OT7T&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: Belgium
+</description>
+            <Point>
+                <coordinates>4.958333,50.937500</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark171">
+            <name>P33W</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/P33W'&gt;P33W&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Cyprus
+</description>
+            <Point>
+                <coordinates>33.178711,34.994004</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark172">
+            <name>P3C</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/P3C'&gt;P3C&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                10&lt;br&gt;Country: Cyprus
+</description>
+            <Point>
+                <coordinates>33.208333,34.979167</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark173">
+            <name>P49Y</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/P49Y'&gt;P49Y&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                10&lt;br&gt;Country: Aruba
+</description>
+            <Point>
+                <coordinates>-69.960000,12.436667</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark174">
+            <name>PA2TMS</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/PA2TMS'&gt;PA2TMS&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: Netherlands
+</description>
+            <Point>
+                <coordinates>4.852304,53.123064</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark175">
+            <name>PI4CC</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/PI4CC'&gt;PI4CC&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: Netherlands
+</description>
+            <Point>
+                <coordinates>4.125000,51.979167</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark176">
+            <name>PI4M</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/PI4M'&gt;PI4M&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                40&lt;br&gt;Country: Netherlands
+</description>
+            <Point>
+                <coordinates>6.060720,53.058007</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark177">
+            <name>PP4T</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/PP4T'&gt;PP4T&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                15&lt;br&gt;Country: Brazil
+</description>
+            <Point>
+                <coordinates>-51.625000,-10.312500</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark178">
+            <name>PP5KE</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/PP5KE'&gt;PP5KE&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                15&lt;br&gt;Country: Brazil
+</description>
+            <Point>
+                <coordinates>-48.460000,-27.688333</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark179">
+            <name>PR1T</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/PR1T'&gt;PR1T&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Brazil
+</description>
+            <Point>
+                <coordinates>-43.199346,-22.232699</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark180">
+            <name>PR7AA</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/PR7AA'&gt;PR7AA&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Brazil
+</description>
+            <Point>
+                <coordinates>-34.871056,-7.129201</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark181">
+            <name>PS2F</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/PS2F'&gt;PS2F&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                15&lt;br&gt;Country: Brazil
+</description>
+            <Point>
+                <coordinates>-47.668142,-22.710204</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark182">
+            <name>PT5J</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/PT5J'&gt;PT5J&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Brazil
+</description>
+            <Point>
+                <coordinates>-49.126667,-27.688333</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark183">
+            <name>PV2K</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/PV2K'&gt;PV2K&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Brazil
+</description>
+            <Point>
+                <coordinates>-48.876667,-23.688333</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark184">
+            <name>PX2A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/PX2A'&gt;PX2A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Brazil
+</description>
+            <Point>
+                <coordinates>-46.460000,-23.813333</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark185">
+            <name>PY7ZC</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/PY7ZC'&gt;PY7ZC&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Brazil
+</description>
+            <Point>
+                <coordinates>-35.521511,-8.236654</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark186">
+            <name>R4GM</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/R4GM'&gt;R4GM&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Russia
+</description>
+            <Point>
+                <coordinates>46.630427,53.122334</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark187">
+            <name>RA3XM</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/RA3XM'&gt;RA3XM&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Russia
+</description>
+            <Point>
+                <coordinates>37.541667,55.770833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark188">
+            <name>RA9P</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/RA9P'&gt;RA9P&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Russia
+</description>
+            <Point>
+                <coordinates>83.061286,54.777639</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark189">
+            <name>RC3W</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/RC3W'&gt;RC3W&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Russia
+</description>
+            <Point>
+                <coordinates>36.125000,51.729167</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark190">
+            <name>RC9X</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/RC9X'&gt;RC9X&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Asiatic Russia
+</description>
+            <Point>
+                <coordinates>50.860973,62.589428</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark191">
+            <name>RK4FD</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/RK4FD'&gt;RK4FD&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Russia
+</description>
+            <Point>
+                <coordinates>44.980517,53.211301</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark192">
+            <name>RL3A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/RL3A'&gt;RL3A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Russia
+</description>
+            <Point>
+                <coordinates>34.864396,55.717656</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark193">
+            <name>RO2E</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/RO2E'&gt;RO2E&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Russia
+</description>
+            <Point>
+                <coordinates>36.260760,53.052940</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark194">
+            <name>RU1A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/RU1A'&gt;RU1A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: Russia
+</description>
+            <Point>
+                <coordinates>29.791667,58.729167</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark195">
+            <name>RZ3Z</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/RZ3Z'&gt;RZ3Z&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Russia
+</description>
+            <Point>
+                <coordinates>36.623333,50.603333</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark196">
+            <name>RZ9WU</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/RZ9WU'&gt;RZ9WU&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Asiatic Russia
+</description>
+            <Point>
+                <coordinates>55.040000,54.145000</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark197">
+            <name>S50G</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/S50G'&gt;S50G&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                40&lt;br&gt;Country: Slovenia
+</description>
+            <Point>
+                <coordinates>14.790000,46.103333</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark198">
+            <name>S51CK</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/S51CK'&gt;S51CK&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Slovenia
+</description>
+            <Point>
+                <coordinates>14.541667,46.020833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark199">
+            <name>S51YI</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/S51YI'&gt;S51YI&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Slovenia
+</description>
+            <Point>
+                <coordinates>15.451032,45.969527</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark200">
+            <name>S53M</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/S53M'&gt;S53M&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Slovenia
+</description>
+            <Point>
+                <coordinates>16.206667,46.728333</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark201">
+            <name>S53MM</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/S53MM'&gt;S53MM&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                40&lt;br&gt;Country: Slovenia
+</description>
+            <Point>
+                <coordinates>14.541667,46.145833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark202">
+            <name>S57DX</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/S57DX'&gt;S57DX&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Slovenia
+</description>
+            <Point>
+                <coordinates>14.299570,45.962442</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark203">
+            <name>S57K</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/S57K'&gt;S57K&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: Slovenia
+</description>
+            <Point>
+                <coordinates>15.848287,46.436565</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark204">
+            <name>S57O</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/S57O'&gt;S57O&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                40&lt;br&gt;Country: Slovenia
+</description>
+            <Point>
+                <coordinates>16.291667,46.812500</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark205">
+            <name>SK6D</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/SK6D'&gt;SK6D&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: Sweden
+</description>
+            <Point>
+                <coordinates>12.455583,57.955013</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark206">
+            <name>SN9B</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/SN9B'&gt;SN9B&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: Poland
+</description>
+            <Point>
+                <coordinates>21.041667,52.270833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark207">
+            <name>SO7E</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/SO7E'&gt;SO7E&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Poland
+</description>
+            <Point>
+                <coordinates>21.041667,52.270833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark208">
+            <name>SO7M</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/SO7M'&gt;SO7M&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: Poland
+</description>
+            <Point>
+                <coordinates>20.456667,50.811667</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark209">
+            <name>SP4TKR</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/SP4TKR'&gt;SP4TKR&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Poland
+</description>
+            <Point>
+                <coordinates>20.456667,54.020000</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark210">
+            <name>SP6DVP</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/SP6DVP'&gt;SP6DVP&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Poland
+</description>
+            <Point>
+                <coordinates>17.958333,50.687500</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark211">
+            <name>SP8BQL</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/SP8BQL'&gt;SP8BQL&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Poland
+</description>
+            <Point>
+                <coordinates>22.614938,51.447067</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark212">
+            <name>SP8R</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/SP8R'&gt;SP8R&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Poland
+</description>
+            <Point>
+                <coordinates>22.206667,50.061667</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark213">
+            <name>SP9HOL</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/SP9HOL'&gt;SP9HOL&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Poland
+</description>
+            <Point>
+                <coordinates>19.913337,50.120211</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark214">
+            <name>SQ5CW</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/SQ5CW'&gt;SQ5CW&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Poland
+</description>
+            <Point>
+                <coordinates>19.169571,49.620917</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark215">
+            <name>SV8IIR</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/SV8IIR'&gt;SV8IIR&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                15&lt;br&gt;Country: Greece
+</description>
+            <Point>
+                <coordinates>24.940274,37.440315</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark216">
+            <name>SV9FBG</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/SV9FBG'&gt;SV9FBG&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Crete
+</description>
+            <Point>
+                <coordinates>25.719327,35.013155</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark217">
+            <name>SV9RGI</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/SV9RGI'&gt;SV9RGI&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                10&lt;br&gt;Country: Crete
+</description>
+            <Point>
+                <coordinates>25.723495,35.023501</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark218">
+            <name>SY1AEA</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/SY1AEA'&gt;SY1AEA&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                10&lt;br&gt;Country: Greece
+</description>
+            <Point>
+                <coordinates>23.810000,38.010000</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark219">
+            <name>SZ3P</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/SZ3P'&gt;SZ3P&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Greece
+</description>
+            <Point>
+                <coordinates>21.720730,38.220760</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark220">
+            <name>TA1CQ</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/TA1CQ'&gt;TA1CQ&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Turkey
+</description>
+            <Point>
+                <coordinates>28.623333,41.020000</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark221">
+            <name>TA3DE</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/TA3DE'&gt;TA3DE&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Turkey
+</description>
+            <Point>
+                <coordinates>28.989448,40.223112</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark222">
+            <name>TA7OM</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/TA7OM'&gt;TA7OM&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Turkey
+</description>
+            <Point>
+                <coordinates>37.940445,40.961419</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark223">
+            <name>TC100OLD</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/TC100OLD'&gt;TC100OLD&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                10&lt;br&gt;Country: Turkey
+</description>
+            <Point>
+                <coordinates>32.875000,39.937500</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark224">
+            <name>TC100YR</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/TC100YR'&gt;TC100YR&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                10&lt;br&gt;Country: Turkey
+</description>
+            <Point>
+                <coordinates>29.040000,40.936667</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark225">
+            <name>TC3EC</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/TC3EC'&gt;TC3EC&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                10&lt;br&gt;Country: Turkey
+</description>
+            <Point>
+                <coordinates>26.456667,38.645000</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark226">
+            <name>TK4TH</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/TK4TH'&gt;TK4TH&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Corsica
+</description>
+            <Point>
+                <coordinates>9.373333,41.978333</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark227">
+            <name>TM1A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/TM1A'&gt;TM1A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: France
+</description>
+            <Point>
+                <coordinates>2.375000,48.854167</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark228">
+            <name>TM2T</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/TM2T'&gt;TM2T&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: France
+</description>
+            <Point>
+                <coordinates>2.375000,48.854167</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark229">
+            <name>TM3Z</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/TM3Z'&gt;TM3Z&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: France
+</description>
+            <Point>
+                <coordinates>2.719198,47.296447</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark230">
+            <name>TM6M</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/TM6M'&gt;TM6M&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: France
+</description>
+            <Point>
+                <coordinates>-4.541667,48.395833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark231">
+            <name>TM7A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/TM7A'&gt;TM7A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: France
+</description>
+            <Point>
+                <coordinates>2.375000,48.854167</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark232">
+            <name>TM9C</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/TM9C'&gt;TM9C&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                40&lt;br&gt;Country: France
+</description>
+            <Point>
+                <coordinates>2.375000,48.854167</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark233">
+            <name>TO5A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/TO5A'&gt;TO5A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                15&lt;br&gt;Country: Martinique
+</description>
+            <Point>
+                <coordinates>-60.978081,14.573131</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark234">
+            <name>UA4M</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/UA4M'&gt;UA4M&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                40&lt;br&gt;Country: Russia
+</description>
+            <Point>
+                <coordinates>49.873333,54.353333</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark235">
+            <name>UA6LUQ</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/UA6LUQ'&gt;UA6LUQ&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                10&lt;br&gt;Country: Russia
+</description>
+            <Point>
+                <coordinates>39.706667,47.311667</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark236">
+            <name>UB7K</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/UB7K'&gt;UB7K&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                15&lt;br&gt;Country: Russia
+</description>
+            <Point>
+                <coordinates>36.373333,45.103333</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark237">
+            <name>UK9AA</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/UK9AA'&gt;UK9AA&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Uzbekistan
+</description>
+            <Point>
+                <coordinates>69.375000,41.354167</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark238">
+            <name>UN3J</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/UN3J'&gt;UN3J&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Kazakhstan
+</description>
+            <Point>
+                <coordinates>82.623333,49.978333</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark239">
+            <name>UP0L</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/UP0L'&gt;UP0L&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                10&lt;br&gt;Country: Kazakhstan
+</description>
+            <Point>
+                <coordinates>68.041667,47.604167</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark240">
+            <name>UP4L</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/UP4L'&gt;UP4L&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                10&lt;br&gt;Country: Kazakhstan
+</description>
+            <Point>
+                <coordinates>63.625000,53.229167</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark241">
+            <name>UP9L</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/UP9L'&gt;UP9L&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Kazakhstan
+</description>
+            <Point>
+                <coordinates>68.041667,47.604167</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark242">
+            <name>UR6EA</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/UR6EA'&gt;UR6EA&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Ukraine
+</description>
+            <Point>
+                <coordinates>31.458333,49.062500</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark243">
+            <name>US5IND</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/US5IND'&gt;US5IND&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Ukraine
+</description>
+            <Point>
+                <coordinates>31.458333,49.062500</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark244">
+            <name>UT3EV</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/UT3EV'&gt;UT3EV&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Ukraine
+</description>
+            <Point>
+                <coordinates>31.458333,49.062500</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark245">
+            <name>UT3SO</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/UT3SO'&gt;UT3SO&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Ukraine
+</description>
+            <Point>
+                <coordinates>31.458333,49.062500</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark246">
+            <name>UT5EL</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/UT5EL'&gt;UT5EL&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                80&lt;br&gt;Country: Ukraine
+</description>
+            <Point>
+                <coordinates>31.458333,49.062500</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark247">
+            <name>UW1M</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/UW1M'&gt;UW1M&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Ukraine
+</description>
+            <Point>
+                <coordinates>31.458333,49.062500</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark248">
+            <name>UW5Y</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/UW5Y'&gt;UW5Y&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Ukraine
+</description>
+            <Point>
+                <coordinates>31.458333,49.062500</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark249">
+            <name>UY7C</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/UY7C'&gt;UY7C&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Ukraine
+</description>
+            <Point>
+                <coordinates>31.458333,49.062500</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark250">
+            <name>UZ0U</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/UZ0U'&gt;UZ0U&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Ukraine
+</description>
+            <Point>
+                <coordinates>31.458333,49.062500</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark251">
+            <name>V47T</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/V47T'&gt;V47T&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                15&lt;br&gt;Country: St Kitts and Nevis
+</description>
+            <Point>
+                <coordinates>-62.728500,17.342445</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark252">
+            <name>VE2GSO</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/VE2GSO'&gt;VE2GSO&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Canada
+</description>
+            <Point>
+                <coordinates>-68.490401,48.489001</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark253">
+            <name>VY2TT</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/VY2TT'&gt;VY2TT&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Canada
+</description>
+            <Point>
+                <coordinates>-64.233999,46.778800</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark254">
+            <name>W2A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/W2A'&gt;W2A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: United States
+</description>
+            <Point>
+                <coordinates>-73.049237,40.947316</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark255">
+            <name>WX3B</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/WX3B'&gt;WX3B&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: United States
+</description>
+            <Point>
+                <coordinates>-77.115292,39.675553</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark256">
+            <name>XL3A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/XL3A'&gt;XL3A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Canada
+</description>
+            <Point>
+                <coordinates>-79.208333,44.520833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark257">
+            <name>YM3VBR</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/YM3VBR'&gt;YM3VBR&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Turkey
+</description>
+            <Point>
+                <coordinates>29.123333,40.395000</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark258">
+            <name>YO5QDI</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/YO5QDI'&gt;YO5QDI&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Romania
+</description>
+            <Point>
+                <coordinates>23.895456,47.921997</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark259">
+            <name>YO8FC</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/YO8FC'&gt;YO8FC&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Romania
+</description>
+            <Point>
+                <coordinates>26.375000,46.937500</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark260">
+            <name>YO9HP</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/YO9HP'&gt;YO9HP&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Romania
+</description>
+            <Point>
+                <coordinates>26.125000,45.020833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark261">
+            <name>YP0C</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/YP0C'&gt;YP0C&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                40&lt;br&gt;Country: Romania
+</description>
+            <Point>
+                <coordinates>27.540000,45.603333</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark262">
+            <name>YT0C</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/YT0C'&gt;YT0C&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                40&lt;br&gt;Country: Serbia
+</description>
+            <Point>
+                <coordinates>20.375000,44.895833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark263">
+            <name>YT1A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/YT1A'&gt;YT1A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                40&lt;br&gt;Country: Serbia
+</description>
+            <Point>
+                <coordinates>20.717653,43.724829</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark264">
+            <name>YT1CI</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/YT1CI'&gt;YT1CI&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                40&lt;br&gt;Country: Serbia
+</description>
+            <Point>
+                <coordinates>20.373333,44.728333</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark265">
+            <name>YT3D</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/YT3D'&gt;YT3D&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                40&lt;br&gt;Country: Serbia
+</description>
+            <Point>
+                <coordinates>20.375000,44.895833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark266">
+            <name>YT3EWW</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/YT3EWW'&gt;YT3EWW&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Serbia
+</description>
+            <Point>
+                <coordinates>20.540000,44.811667</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark267">
+            <name>YT3X</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/YT3X'&gt;YT3X&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Serbia
+</description>
+            <Point>
+                <coordinates>20.919427,44.174818</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark268">
+            <name>YT5A</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/YT5A'&gt;YT5A&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Serbia
+</description>
+            <Point>
+                <coordinates>20.375000,44.895833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark269">
+            <name>YT7B</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/YT7B'&gt;YT7B&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Serbia
+</description>
+            <Point>
+                <coordinates>20.410841,45.337649</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark270">
+            <name>YU1NR</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/YU1NR'&gt;YU1NR&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Serbia
+</description>
+            <Point>
+                <coordinates>20.958333,43.979167</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark271">
+            <name>YU5KBM</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/YU5KBM'&gt;YU5KBM&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Serbia
+</description>
+            <Point>
+                <coordinates>22.266261,43.566413</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark272">
+            <name>YU5M</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/YU5M'&gt;YU5M&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Serbia
+</description>
+            <Point>
+                <coordinates>20.458333,44.020833</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark273">
+            <name>YU5R</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/YU5R'&gt;YU5R&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-28&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                40&lt;br&gt;Country: Serbia
+</description>
+            <Point>
+                <coordinates>21.263564,44.248011</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark274">
+            <name>Z62FB</name>
+            <styleUrl>#ssbStyle</styleUrl>
+            <description>&lt;a href='http://qrz.com/db/Z62FB'&gt;Z62FB&lt;/a&gt;
+                &lt;br/&gt;QSO Date: 2023-10-29&lt;br&gt;Mode: SSB&lt;br&gt;Band:
+                20&lt;br&gt;Country: Republic of Kosovo
+</description>
+            <Point>
+                <coordinates>21.178016,42.621928</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
